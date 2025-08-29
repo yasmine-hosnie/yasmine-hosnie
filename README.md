@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Yasmine</h1>
+<h1 align="center">Hi 👋, I'm Yasmine Hosnie</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasmine-hosnie&label=Profile%20views&color=0e75b6&style=flat" alt="yasmine-hosnie" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasmine-hosnie" alt="yasmine-hosnie" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@yasmeen-lasheen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@yasmeen-lasheen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yasmeen lasheen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasmeen lasheen" height="30" width="40" /></a>
-<a href="https://fb.com/yasmeen lasheen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yasmeen lasheen" height="30" width="40" /></a>
+<a href="https://codepen.io/Yasmeen-Lasheen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@yasmeen-lasheen" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yasmeen-lasheen-5a4a0a27b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasmeen lasheen" height="30" width="40" /></a>
+<a href="https://www.facebook.com/yasmeen.lasheen.469535?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yasmeen lasheen" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/snow_white_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="snow_white_7" height="30" width="40" /></a>
 </p>
 
@@ -15,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasmine-hosnie&show_icons=true&locale=en&layout=compact" alt="yasmine-hosnie" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasmine-hosnie&show_icons=true&locale=en" alt="yasmine-hosnie" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasmine-hosnie&" alt="yasmine-hosnie" /></p>
